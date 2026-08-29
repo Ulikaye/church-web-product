@@ -19,7 +19,7 @@ The next development step is to refactor ONE design into a configuration-driven 
 
 ## Client customization
 
-Keep church-specific information in one configuration object where practical:
+To keep church-specific information in one configuration object where practical:
 - church name
 - tagline
 - contact information
@@ -36,3 +36,5 @@ The showcase can be published as a static site. GitHub Desktop can upload this e
 ## Commercial boundary
 
 Include normal content/branding replacement in the basic package. Quote backend/CMS, authentication, databases, payment integration, advanced forms, automation and mobile apps separately.
+
+By Ulikaye Immanuel August 2026
